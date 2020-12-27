@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116347599491",
+    "project_id": "triple-student-297708",
+    "storage_bucket": "triple-student-297708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116347599491:android:e200ba08516660b248b9b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116347599491-01hsh4tdmslae5r8cretmj80khqa71du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C8pp7ohyqQyiqdEy1sh-XXqpUQvXBZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116347599491-01hsh4tdmslae5r8cretmj80khqa71du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
